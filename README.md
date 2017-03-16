@@ -1,5 +1,5 @@
 # pdf-crash-reproduction
 
-# cordova platforms add android
-# cordova build android
-# cordova run android --device
+1) cordova platforms add android
+2) cordova build android
+3) cordova run android --device
